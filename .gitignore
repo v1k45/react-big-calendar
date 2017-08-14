@@ -1,4 +1,5 @@
-lib/
+# Commenting out lib directory to use it publish build on a git branch
+# lib/
 
 # Logs
 logs
